@@ -1,0 +1,57 @@
+/* ------------------blog------------------- */
+body { 
+    margin: 0 !important;
+    padding: 0 !important;
+
+
+}
+header {
+    background-color: #526E48;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    border-radius: 30;
+}
+header h1 {
+    margin: 0;
+}
+.container_blog {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color:#adc5a95b ;
+    border-radius: 30px;
+}
+.profile-pic {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #62825D;
+}
+.section {
+    margin-bottom: 30px;
+}
+.section h2 {
+    color: #62825D;
+    border-bottom: 2px solid #62825D;
+    padding-bottom: 5px;
+}
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+a {
+    color: #6200ea;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.Sobre_mi {
+font-size: larger;
+}
